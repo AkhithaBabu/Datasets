@@ -23,3 +23,5 @@
 [10]. Muhammad Imran Razzak, Saeeda Naz and Ahmad Zaib| [Deep Learning for Medical Image Processing: Overview, Challenges and Future](https://arxiv.org/ftp/arxiv/papers/1704/1704.06825.pdf)
 
 [11]. Bhavya Ajani| [Automatic Intracranial Brain Segmentation from Computed Tomography Head Images](https://arxiv.org/ftp/arxiv/papers/1906/1906.09726.pdf)
+
+[12]. Nhan T. Nguyen, Dat Q. Tran, Nghia T. Nguyen, Ha Q. Nguyen| [A CNN-LSTM Architecture for Detection of Intracranial Hemorrhage on CT scans](https://arxiv.org/pdf/2005.10992.pdf)
